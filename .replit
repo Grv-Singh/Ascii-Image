@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 ascii.py 0.jpg > output.txt"
